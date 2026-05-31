@@ -1,0 +1,4 @@
+strategy,precision@3,faithfulness,answer_relevancy,chunk_count,avg_chunk_size
+fixed_size,0.2,0.3,0.6,192,987.7552083333334
+recursive,0.3333333333333333,0.6,0.8,198,782.489898989899
+semantic,0.4666666666666666,0.6,0.8,92,1649.7717391304348
